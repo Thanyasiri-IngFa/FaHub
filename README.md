@@ -1,2 +1,3 @@
-# FaHub
-FaHub Script
+while wait() do
+print("IngFaNaRakMakMak")
+end
